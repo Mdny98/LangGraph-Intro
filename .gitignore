@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+build/
+dist/
+wheels/
+*.egg-info
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv
+.env
+venv
+uv.lock
+poetry.lock
+Pipfile.lock
