@@ -36,3 +36,17 @@ The routing is done based on the nature of the input, allowing for more context-
 
 ```bash
 pip install -r requirements.txt
+
+```
+
+### Run the Simple Agent
+
+```python
+python simple_agent.py
+```
+
+### Run the Complex Agent
+
+```python
+python complex_agent.py
+```
